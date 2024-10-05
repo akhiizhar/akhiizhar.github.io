@@ -1,0 +1,68 @@
+body {
+	font-family: "Arial", sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f0f8ff; /* Alice Blue */
+	color: #333;
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+	background-color: #ffffff; /* White */
+	padding: 20px;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+	border-radius: 10px;
+}
+.header {
+	text-align: center;
+	padding: 20px 0;
+	background-color: #e6e6fa; /* Lavender */
+	border-radius: 10px 10px 0 0;
+}
+.header img {
+	border-radius: 50%;
+	width: 500px;
+	height: 500px;
+	border: 5px solid #fff;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.header h1 {
+	margin: 10px 0 5px;
+	color: #4b0082; /* Indigo */
+}
+.header p {
+	color: #6a5acd; /* Slate Blue */
+}
+.section {
+	margin: 20px 0;
+	padding: 20px;
+	background-color: #faf0e6; /* Linen */
+	border-radius: 10px;
+}
+.section h2 {
+	color: #4b0082; /* Indigo */
+	border-bottom: 2px solid #e6e6fa; /* Lavender */
+	padding-bottom: 10px;
+}
+.section p {
+	color: #6a5acd;
+}
+.experience,
+.education {
+	margin: 10px 0;
+}
+.experience h3,
+.education h3 {
+	color: #4b0082; /* Indigo */
+	margin: 5px 0;
+}
+.experience p,
+.education p {
+	color: #6a5acd; /* Slate Blue */
+}
+.experience ul {
+	color: #6a5acd;
+}
+.experience li {
+	padding-bottom: 10px;
+}
